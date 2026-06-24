@@ -2,7 +2,6 @@
 
 **Understand your discharge letter. Know exactly what to keep, take, or throw away.**
 
-Built for USAII's Global AI Hackathon 2026 — Challenge 1: *Help Is Hard to Find* (Direction A: Crisis-to-Action Translator)
 
 > It's 11 p.m. Maya, 9, is finally asleep after an asthma flare-up. Her dad is sitting at the kitchen table with a discharge letter full of dosing instructions in one hand and a drawer of old inhalers and amoxicillin bottles in the other, trying to figure out which ones are safe to use tonight and which ones have been expired since last winter. Cabinet Clear is built for that exact moment.
 
@@ -306,4 +305,4 @@ Cabinet Clear organizes information only. It does not provide medical advice and
 
 ---
 
-*Built for USAII's Global AI Hackathon 2026, High School Track.*
+*Re-built for SunnyHacks with an improved frontend*
